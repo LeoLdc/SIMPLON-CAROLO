@@ -33,12 +33,17 @@ margin-top: 5px;
 .bgred {
   background-color: #b71c35;
 }
-.container a {
-  margin: 0;
-}
+
 .fix {
   margin-left: 50%
 }
+.coll {
+  background-color: #4c4c4c;
+  box-shadow: inset 1px 6px 9px 0px black;
+  padding: 10px;
+  text-align: justify;
+}
+
 =======
 
 
