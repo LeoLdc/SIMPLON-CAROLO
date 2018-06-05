@@ -1,0 +1,49 @@
+
+nav ul{
+  text-align: center;
+}
+
+nav ul li{
+  list-style: none;
+  text-align: center;
+  margin-left: 5px;
+  margin-right:5px;
+}
+
+
+nav ul li a{
+  font-size: 16px;
+  color: #000;
+}
+
+.limenu{
+border-bottom: 2px #000 solid;
+}
+
+.nav_logo{
+  width: 150px;
+  height: 120px;
+  border-style: none;
+}
+
+nav{
+  display: flex;
+  width: 60%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ .affix {
+     top: 0;
+     width: 100%;
+     z-index: 9999 !important;
+ }
+
+ .affix + .container-fluid {
+     padding-top: 70px;
+ }
+
+ body{
+   height: 1000px;
+ }
