@@ -3,7 +3,7 @@
 
     <div class="col-lg-12 col-md-12 col-sm-12">
       <div class="d-flex justify-content-center">
-        <img class="logo-simplon" src="../img/logo-couleur.png" alt="log-simplon">
+        <img class="logo-simplon" src="../img/logo-ouleur.png" alt="log-simplon">
         <h1>Simplon Charleville-Mézières</h1>
       </div>
 
