@@ -4,7 +4,7 @@
         <ul class="nav navbar-nav">
           <li class="limenu"><a href="#">Acceuil</a></li>
           <li class="limenu"><a href="#">Presentation</a></li>
-          <li><img src="../img/logo-couleur.png" class="nav_logo"alt=""></li>
+          <li><img src="img/logo-couleur.png" class="nav_logo"alt=""></li>
           <li class="limenu"><a href="#">News & photos</a></li>
           <li class="limenu"><a href="#">Contact</a></li>
         </ul>

@@ -14,6 +14,8 @@
 
     <body>
 
+      <?php include('php/header.php') ?>
+
       <div class="container-fluid">
         <div class="row border">
           <div class="col-lg-4 col-md-4 col-sm-4 border-right ">
