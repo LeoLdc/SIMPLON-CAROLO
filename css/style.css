@@ -33,3 +33,6 @@ margin-top: 5px;
 .bgred {
   background-color: #b71c35;
 }
+.container a {
+  margin: 0;
+}
