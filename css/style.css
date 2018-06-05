@@ -57,7 +57,7 @@ margin-top: 5px;
 /* Logos partenaires*/
 
 .grandest, .ardennemetropole{
-  width: 180px;
+  width: 33%;
 }
 
 .grandest, .ardennemetropole, .europesengage, .ue, .etat{
@@ -70,21 +70,21 @@ margin-top: 5px;
 }
 
 .europesengage{
-  width: 90px;
+  width: 22%;
 }
 
 .ue{
-  width: 70px;
+  width: 15%;
 }
 
 .etat{
-  width: 80px;
+  width: 9%;
 
 }
 
 .logo-simplon{
   height: 80px;
-  width: 110px;
+  width: 22%;
 }
 
 /* Logos réseaux sociaux */
@@ -99,7 +99,7 @@ margin-top: 5px;
 .fblogo{
   margin-top: 10px;
   height: 38px;
-  width: 38px;
+  width: 8%;
 }
 
 /* Textes et titres */
