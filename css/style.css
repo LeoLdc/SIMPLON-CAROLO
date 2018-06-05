@@ -44,7 +44,7 @@ margin-top: 5px;
 
 /* Footer */
 
-footer{
+.footer{
   background-color: #b7b7b7;
 }
 
@@ -119,5 +119,4 @@ footer p{
   font-size: 15px;
   font-weight: 100;
   color: white;
->>>>>>> 6d6fef9788b04f40b9ae5c64bb28a9d803be3a2b
 }
