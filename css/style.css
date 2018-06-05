@@ -22,3 +22,14 @@ h2 {
 .border-left {
   border-left: 1px solid black;
 }
+
+iframe {
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+margin-top: 5px;
+}
+
+.bgred {
+  background-color: #b71c35;
+}
