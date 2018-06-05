@@ -44,13 +44,12 @@ margin-top: 5px;
   text-align: justify;
 }
 
-=======
 
 
 /* Footer */
 
-footer{
-  background-color: grey;
+.backfooter{
+  background-color: #b2b2b2;
 }
 
 

@@ -63,7 +63,7 @@
 
       </div>
 
-      <footer><?php include('php/footer.php') ?></footer>
+      <footer class="backfooter"><?php include('php/footer.php') ?></footer>
 
 
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
