@@ -36,3 +36,83 @@ margin-top: 5px;
 .container a {
   margin: 0;
 }
+
+
+/* Footer */
+
+.container-fluid{
+  background-color: #b7b7b7;
+}
+
+
+
+/* Logos partenaires*/
+
+.grandest, .ardennemetropole{
+  width: 180px;
+}
+
+.grandest, .ardennemetropole, .europesengage, .ue, .etat{
+  margin-top: 20px;
+}
+
+.grandest, .ardennemetropole, .europesengage, .ue, .etat{
+  margin-right: 25px;
+  height: 50px;
+}
+
+.europesengage{
+  width: 90px;
+}
+
+.ue{
+  width: 70px;
+}
+
+.etat{
+  width: 80px;
+
+}
+
+.logo-simplon{
+  height: 80px;
+  width: 110px;
+}
+
+/* Logos réseaux sociaux */
+
+#logotwitter{
+  margin-top: 10px;
+  margin-right:20px;
+  color: #1A97F0;
+  font-size: 40px;
+}
+
+.fblogo{
+  margin-top: 10px;
+  height: 38px;
+  width: 38px;
+}
+
+/* Textes et titres */
+
+
+footer h1{
+  padding-left: 33px;
+  padding-top: 15px;
+  font-weight: 200;
+  color: white;
+}
+
+footer h2{
+  font-size: 20px;
+  color: white;
+  font-weight: 300;
+}
+
+footer p{
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 100;
+  color: white;
+}
