@@ -1,15 +1,12 @@
-<!DOCTYPE html>
-<html lang="fr" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/bootstrap.css">
-  </head>
-  <body>
 
-
-
-
-  </body>
-</html>
+    <nav class="navbar  affix-top" id="navbar" data-spy="affix" data-offset-top="0">
+      <div class="container-fluid">
+        <ul class="nav navbar-nav">
+          <li class="limenu"><a href="#">Acceuil</a></li>
+          <li class="limenu"><a href="#">Presentation</a></li>
+          <li><img src="img/logo-couleur.png" class="nav_logo"alt=""></li>
+          <li class="limenu"><a href="#">News & photos</a></li>
+          <li class="limenu"><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </nav>

@@ -33,12 +33,17 @@ margin-top: 5px;
 .bgred {
   background-color: #b71c35;
 }
-.container a {
-  margin: 0;
-}
+
 .fix {
   margin-left: 50%
 }
+.coll {
+  background-color: #4c4c4c;
+  box-shadow: inset 1px 6px 9px 0px black;
+  padding: 10px;
+  text-align: justify;
+}
+
 =======
 
 
@@ -120,3 +125,53 @@ footer p{
   font-weight: 100;
   color: white;
 }
+
+
+/*header*/
+
+
+nav ul{
+  text-align: center;
+}
+
+nav ul li{
+  list-style: none;
+  text-align: center;
+  margin-left: 5px;
+  margin-right:5px;
+}
+
+
+nav ul li a{
+  font-size: 16px;
+  color: #000;
+}
+
+.limenu{
+border-bottom: 2px #000 solid;
+}
+
+.nav_logo{
+  width: 150px;
+  height: 120px;
+  border-style: none;
+}
+
+nav{
+  background-color: rgb(255, 255, 255, 0.8);
+  display: flex;
+  width: 52%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ .affix {
+     top: 0;
+     width: 100%;
+     z-index: 9999 !important;
+ }
+
+ .affix + .container-fluid {
+     padding-top: 70px;
+ }
