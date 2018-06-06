@@ -1,12 +1,30 @@
+<header>
 
-    <nav class="navbar  affix-top" id="navbar" data-spy="affix" data-offset-top="0">
-      <div class="container-fluid">
-        <ul class="nav navbar-nav">
-          <li class="limenu"><a href="#">Acceuil</a></li>
-          <li class="limenu"><a href="#">Presentation</a></li>
-          <li><img src="img/logo-couleur.png" class="nav_logo"alt=""></li>
-          <li class="limenu"><a href="#">News & photos</a></li>
-          <li class="limenu"><a href="#">Contact</a></li>
-        </ul>
-      </div>
-    </nav>
+  <nav class="navbar navbar-expand-lg fixed-top">
+    <img class="headerimg"src="img/logo-couleur-blanc.png" alt="">
+    <div class="container">
+  <div class="collapse navbar-collapse" >
+    <ul class="navbar-nav ulback">
+      <li class="nav-item">
+        <a class="nav-link border-navlia" href="index.php">accueil</a>
+      </li>
+      <li class="nav-item dropdown space">
+        <a class="nav-link dropdown-toggle border-navlia" href="presentation.php" role="button"
+        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">presentation</a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li>
+      <li class="nav-item space2">
+        <a class="nav-link border-navlia" href="#">News & Photos</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link border-navlia" href="formulaire.php">Contact</a>
+      </li>
+    </ul>
+  </div>
+</div>
+</nav>
+</header>

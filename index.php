@@ -8,8 +8,6 @@
       <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
       <link rel="stylesheet" type="text/css" href="css/style.css">
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-
     </head>
 
     <body>
@@ -31,6 +29,7 @@
           </div>
         </div>
         <br/>
+        
         <div class="row border-section bg-dark text-white padding">
           <div class="col-lg-12 col-md-12 col-sm-12">
             <h2>La mentalité Simplon</h2>
@@ -46,10 +45,14 @@
 
               Sed ut tum ad senem senex de senectute, sic hoc libro ad amicum amicissimus scripsi de amicitia. Tum est Cato locutus, quo erat nemo fere senior temporibus illis, nemo prudentior; nunc Laelius et sapiens (sic enim est habitus) et amicitiae gloria excellens de amicitia loquetur. Tu velim a me animum parumper avertas, Laelium loqui ipsum putes. C. Fannius et Q. Mucius ad socerum veniunt post mortem Africani; ab his sermo oritur, respondet Laelius, cuius tota disputatio est de amicitia, quam legens te ipse cognosces.<br>
 
-              Oportunum est, ut arbitror, explanare nunc causam, quae ad exitium praecipitem Aginatium inpulit iam inde a priscis maioribus nobilem, ut locuta est pertinacior fama. nec enim super hoc ulla documentorum rata est fides.<br>
-            </div>
-              <button type="button" class="btn btn-info fix" data-toggle="collapse" data-target="#demo"><i class="fas fa-angle-down"></i></button>
 
+      </div>
+    </div>
+    <div class="row border-section">
+      <div class="col-lg-6 col-md-6 col-sm-6">
+        <h2> Comment rejoindre Simplon ? </h2>
+        <button type="button" name="rejoindre">Rejoindre</button>
+      </div>
 
           </div>
         </div>
@@ -69,11 +72,11 @@
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/MPC3gZWyxeo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
 
-        </div>
+  </div>
 
-      </div>
+  <footer class="backfooter"><?php include('php/footer.php') ?></footer>
+</div>
 
-      <footer class="backfooter"><?php include('php/footer.php') ?></footer>
 
 
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
