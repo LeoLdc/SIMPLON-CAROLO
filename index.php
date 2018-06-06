@@ -19,7 +19,7 @@
           <div class="divcenterhori">
           <div class="col-lg-4 col-md-4 col-sm-4">
 
-            <img src="images/img1.png" alt="accueil" width="100%">
+            <img src="images/simplonapero.jpeg" alt="accueil" width="100%" style="border-radius:3em;">
           </div>
 
           <div class="col-lg-8 col-md-8 col-sm-8 divcenterverti">
