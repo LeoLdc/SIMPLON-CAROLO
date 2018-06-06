@@ -1,0 +1,16 @@
+#cercle {
+  position: absolute;
+  width: 25em;
+  height: 25em;
+  border-radius: 50%;
+  left: -20%;
+  background: linear-gradient(#ed1651, red);
+}
+
+.btnbg {
+  position: absolute;
+  background-color: black;
+  width: 80px;
+  height: 80px;
+  border-radius: 40%;
+}
