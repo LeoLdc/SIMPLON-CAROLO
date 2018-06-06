@@ -18,16 +18,20 @@
 
       <div class="container-fluid">
         <div class="row border">
-          <div class="col-lg-4 col-md-4 col-sm-4 border-right ">
+          <div class="divcenterhori">
+          <div class="col-lg-4 col-md-4 col-sm-4 border-right">
+
             <img src="images/img1.png" alt="accueil" width="100%">
           </div>
 
-          <div class="col-lg-8 col-md-8 col-sm-8">
+          <div class="col-lg-8 col-md-8 col-sm-8 divcenterverti">
             <h2> Présentation courte </h2>
-            <p>Proinde die funestis interrogationibus praestituto imaginarius iudex equitum resedit magister adhibitis aliis iam quae essent agenda praedoctis, et adsistebant hinc inde notarii, quid quaesitum esset, quidve responsum, cursim ad Caesarem perferentes, cuius imperio truci, stimulis reginae exsertantis aurem subinde per aulaeum, nec diluere obiecta permissi nec defensi periere conplures. </p>
+            <p>Proinde die funestis interrogationibus praestituto imaginarius iudex equitum resedit magister adhibitis aliis iam quae essent agenda praedoctis, et adsistebant hinc inde notarii, quid quaesitum esset, quidve responsum, cursim ad Caesarem perferentes, cuius imperio truci, stimulis reginae exsertantis aurem subinde per aulaeum, nec diluere obiecta permissi nec defensi periere conplures.Proinde die funestis interrogationibus praestituto imaginarius iudex equitum resedit magister adhibitis aliis iam quae essent agenda praedoctis, et adsistebant hinc inde notarii, quid quaesitum esset, quidve responsum, cursim ad Caesarem perferentes, cuius imperio truci, stimulis reginae exsertantis aurem subinde per aulaeum, nec diluere obiecta permissi nec defensi periere conplures.  </p>
+          </div>
           </div>
         </div>
-        <div class="row border-section bg-dark text-white">
+        <br/>
+        <div class="row border-section bg-dark text-white padding">
           <div class="col-lg-12 col-md-12 col-sm-12">
             <h2>La mentalité Simplon</h2>
             <h3>Devenir un bon simplonien</h3>
@@ -49,13 +53,19 @@
 
           </div>
         </div>
-        <div class="row border-section">
-          <div class="col-lg-6 col-md-6 col-sm-6">
+        <div class="divcenterhori marginbottom padding row border-section">
+          <div class="col-lg-6 col-md-6 col-sm-6 padding">
             <h2> Comment rejoindre Simplon ? </h2>
-            <button type="button" name="rejoindre">Rejoindre</button>
+            <p>  Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              Quam quidem partem accusationis admiratus sum et moleste tuli potissimum esse Atratino datam. Neque enim decebat neque aetas illa postulabat neque, id quod animadvertere poteratis, pudor patiebatur optimi adulescentis in tali illum oratione versari. Vellem aliquis ex vobis robustioribus hunc male dicendi locum suscepisset;.</p>
+              <div id="centrage">
+              <button id="button" type="button" name="rejoindre">Rejoindre</button>
+              </div>
           </div>
 
-          <div class="col-lg-6 col-md-6 col-sm-6 border-left bgred">
+          <div style="border-radius:3.5em;" class="col-lg-6 col-md-6 col-sm-6 border-left bgred">
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/MPC3gZWyxeo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
 

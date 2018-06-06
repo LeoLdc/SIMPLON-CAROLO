@@ -3,10 +3,10 @@ p {
 }
 
 .border {
-  border: 1px solid black;
+  border: 1px solid white;
 }
 .border-right {
-  border-right: 1px solid black ;
+  border-right: 1px solid white ;
 }
 
 h2 {
@@ -14,19 +14,19 @@ h2 {
 }
 
 .border-section {
-  border-bottom: 1px solid black;
-  border-left: 1px solid black;
-  border-right: 1px solid black;
+  border-bottom: 1px solid white;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
 }
 
 .border-left {
-  border-left: 1px solid black;
+  border-left: 1px solid white;
 }
 
 iframe {
 -webkit-border-radius: 10px;
 -moz-border-radius: 10px;
-border-radius: 10px;
+border-radius: 3.5em;
 margin-top: 5px;
 }
 
@@ -39,7 +39,7 @@ margin-top: 5px;
 }
 .coll {
   background-color: #4c4c4c;
-  box-shadow: inset 1px 6px 9px 0px black;
+  box-shadow: inset 0px 6px 8px 0px white;
   padding: 10px;
   text-align: justify;
 }
@@ -174,3 +174,34 @@ nav{
  .affix + .container-fluid {
      padding-top: 70px;
  }
+
+/*retouche div esthétisme*/
+
+#centrage {
+  display: flex;
+  justify-content: center;
+  width:100%;
+}
+#marginbottom{
+  margin-bottom:0.5em;
+}
+#button {
+  height:3em;
+}
+.divborder{
+  border: 0.5em solid white;
+  border:0.5em 0.5em 0.5em 0.5em;
+}
+.divcenterhori {
+display:flex;
+}
+.divcenterverti {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding:2em;
+  width:80em;
+}
+.padding {
+  padding: 1em;
+}
