@@ -7,23 +7,55 @@
 		<title></title>
 	</head>
 	<body>
+
+
 		<div class="container-fluid">
-			<div class="form-group">
-				<label for="nom">Nom<input type="text" id="nomform" class="form-control"></label>
+			<div class="row">
+
+			<div class="col-lg-6 col-md-6 col-sm-6">
+
+				<div class="mx-auto w-50 p-3 border border-danger">
+
+					<form action="">
+						<fieldset class="form-group">
+							<label for="email">Nom</label>
+							<input type="text" class="form-control" id="nom" name="nom">
+						</fieldset>
+						<fieldset class="form-group">
+							<label for="email">Prénom</label>
+							<input type="text" class="form-control" id="prenom" name="prenom">
+						</fieldset>
+						<fieldset class="form-group">
+							<label for="email">E-mail</label>
+							<input type="email" class="form-control" id="email" name="email">
+						</fieldset>
+						<fieldset class="form-group">
+							<label for="sujet">Sujet</label>
+							<input type="text" class="form-control" id="sujet" name="sujet">
+						</fieldset>
+						<div class="form-group">
+							<label for="votremessage">Votre message</label>
+							<textarea class="form-control" cols="30" rows="10" id="message" name="message"></textarea>
+						</div>
+
+						<button type="submit" class="btn btn-danger mx-auto p-6">Envoyer !</button>
+					</form>
+
+				</div>
+
 			</div>
-			<div class="form-group">
-				<label for="prenom">Prénom<input type="text" id="prenomform" class="form-control"></label>
+
+			<div class="col-lg-6 col-md-6 col-sm-6">
+				<div class="mx-auto w-50 p-3 border border-danger">
+					<h1>Informations :</h1>
+				</div>
 			</div>
-			<div class="form-group">
-				<label for="email">E-mail<input type="email" id="emailform" class="form-control"></label>
-			</div>
-			<div class="form-group">
-				<label for="sujet">Sujet<input type="text" id="sujetform" class="form-control"></label>
-			</div>
-			<div class="form-group">
-				<label for="message">Votre message</label>
-				<textarea rows="5" id="message" class="form-control"></textarea>
-			</div>
-		</div>
+
+
+	  </div>
+	</div>
+
+
+
 	</body>
 </html>
