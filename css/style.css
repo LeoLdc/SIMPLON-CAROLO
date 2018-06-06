@@ -56,8 +56,14 @@ margin-top: 5px;
 
 /* Logos partenaires*/
 
-.grandest, .ardennemetropole{
-  width: 180px;
+.grandest{
+  width:23%;
+  height:17%;
+}
+
+.ardennemetropole{
+  width: 23%;
+  height: 17%;
 }
 
 .grandest, .ardennemetropole, .europesengage, .ue, .etat{
@@ -66,25 +72,27 @@ margin-top: 5px;
 
 .grandest, .ardennemetropole, .europesengage, .ue, .etat{
   margin-right: 25px;
-  height: 50px;
 }
 
 .europesengage{
-  width: 90px;
+  width: 12.6%;
+  height: 17%;
+
 }
 
 .ue{
-  width: 70px;
+  width: 9.1%;
+  height: 12%;
 }
 
 .etat{
-  width: 80px;
-
+  width: 12.1%;
+  height: 55%;
 }
 
 .logo-simplon{
-  height: 80px;
-  width: 110px;
+  height: 30%;
+  width: 8%;
 }
 
 /* Logos réseaux sociaux */
@@ -96,10 +104,11 @@ margin-top: 5px;
   font-size: 40px;
 }
 
-.fblogo{
+#fblogo{
   margin-top: 10px;
-  height: 38px;
-  width: 38px;
+  margin-right:20px;
+  color: #3F5CA0;
+  font-size: 40px;
 }
 
 /* Textes et titres */
