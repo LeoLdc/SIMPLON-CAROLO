@@ -26,7 +26,7 @@ h2 {
 iframe {
 -webkit-border-radius: 10px;
 -moz-border-radius: 10px;
-border-radius: 3.5sem;
+border-radius: 3.5em;
 margin-top: 5px;
 }
 
@@ -129,51 +129,6 @@ footer p{
 /*header*/
 
 
-nav ul{
-  text-align: center;
-}
-
-nav ul li{
-  list-style: none;
-  text-align: center;
-  margin-left: 5px;
-  margin-right:5px;
-}
-
-
-nav ul li a{
-  font-size: 16px;
-  color: #000;
-}
-
-.limenu{
-border-bottom: 2px #000 solid;
-}
-
-.nav_logo{
-  width: 150px;
-  height: 120px;
-  border-style: none;
-}
-
-nav{
-  background-color: rgb(255, 255, 255, 0.8);
-  display: flex;
-  width: 52%;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-}
-
- .affix {
-     top: 0;
-     width: 100%;
-     z-index: 9999 !important;
- }
-
- .affix + .container-fluid {
-     padding-top: 70px;
- }
 
 /*retouche div esthétisme*/
 

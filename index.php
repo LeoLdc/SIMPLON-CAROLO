@@ -29,7 +29,7 @@
           </div>
         </div>
         <br/>
-        
+
         <div class="row border-section bg-dark text-white padding">
           <div class="col-lg-12 col-md-12 col-sm-12">
             <h2>La mentalité Simplon</h2>
@@ -48,11 +48,7 @@
 
       </div>
     </div>
-    <div class="row border-section">
-      <div class="col-lg-6 col-md-6 col-sm-6">
-        <h2> Comment rejoindre Simplon ? </h2>
-        <button type="button" name="rejoindre">Rejoindre</button>
-      </div>
+    
 
           </div>
         </div>
