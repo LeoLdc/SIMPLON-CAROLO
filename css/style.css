@@ -56,8 +56,14 @@ margin-top: 5px;
 
 /* Logos partenaires*/
 
-.grandest, .ardennemetropole{
-  width: 33%;
+.grandest{
+  width:23%;
+  height:17%;
+}
+
+.ardennemetropole{
+  width: 23%;
+  height: 17%;
 }
 
 .grandest, .ardennemetropole, .europesengage, .ue, .etat{
@@ -66,25 +72,27 @@ margin-top: 5px;
 
 .grandest, .ardennemetropole, .europesengage, .ue, .etat{
   margin-right: 25px;
-  height: 50px;
 }
 
 .europesengage{
-  width: 22%;
+  width: 12.6%;
+  height: 17%;
+
 }
 
 .ue{
-  width: 15%;
+  width: 9.1%;
+  height: 12%;
 }
 
 .etat{
-  width: 9%;
-
+  width: 12.1%;
+  height: 55%;
 }
 
 .logo-simplon{
-  height: 80px;
-  width: 22%;
+  height: 30%;
+  width: 8%;
 }
 
 /* Logos réseaux sociaux */
@@ -96,11 +104,36 @@ margin-top: 5px;
   font-size: 40px;
 }
 
-.fblogo{
+#fblogo{
   margin-top: 10px;
-  height: 38px;
-  width: 8%;
+  margin-right:20px;
+  color: #3F5CA0;
+  font-size: 40px;
 }
+
+/* Textes et titres */
+
+
+footer h1{
+  padding-left: 33px;
+  padding-top: 15px;
+  font-weight: 200;
+  color: white;
+}
+
+footer h2{
+  font-size: 20px;
+  color: white;
+  font-weight: 300;
+}
+
+footer p{
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 100;
+  color: white;
+}
+
 
 /* Textes et titres */
 
@@ -170,14 +203,6 @@ nav ul li a{
 
 /*retouche div esthétisme*/
 
-<<<<<<< HEAD
- .affix + .container-fluid {
-     padding-top: 70px;
- }
-
-
-/* Formulaire */
-=======
 #centrage {
   display: flex;
   justify-content: center;
@@ -204,4 +229,3 @@ display:flex;
 .padding {
   padding: 1em;
 }
->>>>>>> 257aa7998430c4c112026898291ea607d8e2f1b3
