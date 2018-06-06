@@ -15,9 +15,9 @@
       <?php include('php/header.php') ?>
 
       <div class="container-fluid">
-        <div class="row border">
+        <div style="margin-top:3em;" class="row ">
           <div class="divcenterhori">
-          <div class="col-lg-4 col-md-4 col-sm-4 border-right">
+          <div class="col-lg-4 col-md-4 col-sm-4">
 
             <img src="images/img1.png" alt="accueil" width="100%">
           </div>
@@ -30,7 +30,7 @@
         </div>
         <br/>
 
-        <div class="row border-section bg-dark text-white padding">
+        <div class="row  bg-dark text-white padding">
           <div class="col-lg-12 col-md-12 col-sm-12">
             <h2>La mentalité Simplon</h2>
             <h3>Devenir un bon simplonien</h3>
@@ -47,6 +47,7 @@
 
 
       </div>
+        <button type="button" class="btn btn-info fix" data-toggle="collapse" data-target="#demo"><i class="fas fa-angle-down"></i></button>
     </div>
 
 
