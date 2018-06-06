@@ -48,7 +48,7 @@
 
       </div>
     </div>
-    
+
 
           </div>
         </div>
@@ -60,7 +60,7 @@
               quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
               Quam quidem partem accusationis admiratus sum et moleste tuli potissimum esse Atratino datam. Neque enim decebat neque aetas illa postulabat neque, id quod animadvertere poteratis, pudor patiebatur optimi adulescentis in tali illum oratione versari. Vellem aliquis ex vobis robustioribus hunc male dicendi locum suscepisset;.</p>
               <div id="centrage">
-              <button id="button" type="button" name="rejoindre">Rejoindre</button>
+              <button  type="button" name="rejoindre">Rejoindre</button>
               </div>
           </div>
 
