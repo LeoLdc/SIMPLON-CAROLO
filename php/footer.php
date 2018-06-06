@@ -12,7 +12,7 @@
 
       <div class="d-flex justify-content-center">
         <i id=logotwitter class="fab fa-twitter fa-2x"></i>
-        <i id=fblogo class="fab fa-facebook-square fa-2x"></i>
+        <i id=fblogo class="fab fa-facebook-square fa-3x"></i>
       </div>
 
       <div class="d-flex justify-content-center">

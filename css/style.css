@@ -39,7 +39,7 @@ margin-top: 5px;
 }
 .coll {
   background-color: #4c4c4c;
-  box-shadow: inset 0px 6px 8px 0px white;
+  box-shadow: inset 0px 2px 2px 0px #ffffff;
   padding: 10px;
   text-align: justify;
 }
@@ -56,14 +56,8 @@ margin-top: 5px;
 
 /* Logos partenaires*/
 
-.grandest{
-  width:23%;
-  height:17%;
-}
-
-.ardennemetropole{
-  width: 23%;
-  height: 17%;
+.grandest, .ardennemetropole{
+  width: 33%;
 }
 
 .grandest, .ardennemetropole, .europesengage, .ue, .etat{
@@ -72,27 +66,25 @@ margin-top: 5px;
 
 .grandest, .ardennemetropole, .europesengage, .ue, .etat{
   margin-right: 25px;
+  height: 50px;
 }
 
 .europesengage{
-  width: 12.6%;
-  height: 17%;
-
+  width: 22%;
 }
 
 .ue{
-  width: 9.1%;
-  height: 12%;
+  width: 15%;
 }
 
 .etat{
-  width: 12.1%;
-  height: 55%;
+  width: 9%;
+
 }
 
 .logo-simplon{
-  height: 30%;
-  width: 8%;
+  height: 8em;
+  width: 10em;
 }
 
 /* Logos réseaux sociaux */
@@ -104,15 +96,18 @@ margin-top: 5px;
   font-size: 40px;
 }
 
-#fblogo{
+.fblogo{
   margin-top: 10px;
-  margin-right:20px;
-  color: #3F5CA0;
-  font-size: 40px;
+  height: 38px;
+  width: 8%;
+}
+.container-fluid {
+  padding:1em;
 }
 
-/* Textes et titres */
 
+
+/* Textes et titres */
 
 footer h1{
   padding-left: 33px;
@@ -133,31 +128,6 @@ footer p{
   font-weight: 100;
   color: white;
 }
-
-
-/* Textes et titres */
-
-
-footer h1{
-  padding-left: 33px;
-  padding-top: 15px;
-  font-weight: 200;
-  color: white;
-}
-
-footer h2{
-  font-size: 20px;
-  color: white;
-  font-weight: 300;
-}
-
-footer p{
-  margin-top: 20px;
-  font-size: 15px;
-  font-weight: 100;
-  color: white;
-}
-
 
 /*header*/
 
@@ -228,4 +198,21 @@ display:flex;
 }
 .padding {
   padding: 1em;
+}
+/* button*/
+.button3 {
+  background-color: #f00b4e;
+  border-radius: 50%;
+  border:1px solid black;
+}
+.button2 {
+    background-color: #f00b4e;
+    border: 1px solid black;
+    color: white;
+    padding: 30px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50%;
 }

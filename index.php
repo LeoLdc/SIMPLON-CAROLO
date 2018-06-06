@@ -34,7 +34,7 @@
           <div class="col-lg-12 col-md-12 col-sm-12">
             <h2>La mentalité Simplon</h2>
             <h3>Devenir un bon simplonien</h3>
-            <p>Apud has gentes, quarum exordiens initium ab Assyriis ad Nili cataractas porrigitur et confinia Blemmyarum, omnes pari sorte sunt bellatores seminudi coloratis sagulis pube tenus amicti, equorum adiumento pernicium graciliumque camelorum per diversa se raptantes, in tranquillis vel turbidis rebus: nec eorum quisquam aliquando stivam adprehendit vel arborem colit aut arva subigendo quaeritat victum, sed errant semper per spatia longe lateque distenta sine lare sine sedibus fixis aut legibus: nec idem perferunt diutius caelum aut tractus unius soli illis umquam placet.<br>
+            <p>Apud has gentes, quarum exordiens initium ab Assyriis ad Nili cataractas porrigitur et confinia Blemmyarum, omnes pari sorte sunt bellatores seminudi coloratis sagulis pube tenus amicti, equorum adiumento pernicium graciliumque camelorum per diversa se raptantes, in tranquillis vel turbidis rebus: nec eorum quisquam aliquando stivam adprehendit vel arborem colit aut arva subigendo quaeritat victum, sed errant semper per spatia longe lateque distenta sine lare sine sedibus fixis aut legibus: nec idem perferunt diutius caelum aut tractus uniu.button3 {background-color: #f44336;} /* Red */ s soli illis umquam placet.<br>
 
             Quam ob rem circumspecta cautela observatum est deinceps et cum edita montium petere coeperint grassatores, loci iniquitati milites cedunt. ubi autem in planitie potuerint reperiri, quod contingit adsidue, nec exsertare lacertos nec crispare permissi tela, quae vehunt bina vel terna, pecudum ritu inertium trucidantur.</p>
             <div id="demo" class="collapse coll">
@@ -47,7 +47,7 @@
 
 
       </div>
-        <button type="button" class="btn btn-info fix" data-toggle="collapse" data-target="#demo"><i class="fas fa-angle-down"></i></button>
+        <button type="button" class="btn btn-info fix button3" data-toggle="collapse" data-target="#demo"><i class="fas fa-angle-down"></i></button>
     </div>
 
 
@@ -61,11 +61,11 @@
               quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
               Quam quidem partem accusationis admiratus sum et moleste tuli potissimum esse Atratino datam. Neque enim decebat neque aetas illa postulabat neque, id quod animadvertere poteratis, pudor patiebatur optimi adulescentis in tali illum oratione versari. Vellem aliquis ex vobis robustioribus hunc male dicendi locum suscepisset;.</p>
               <div id="centrage">
-              <button  type="button" name="rejoindre">Rejoindre</button>
+              <button class="button2" type="button" name="rejoindre">Rejoindre</button>
               </div>
           </div>
 
-          <div style="border-radius:3.5em;" class="col-lg-6 col-md-6 col-sm-6 border-left bgred">
+          <div style="border-radius:3.5em; border:0.2px solid black;" class="col-lg-6 col-md-6 col-sm-6 border-left bgred">
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/MPC3gZWyxeo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
 
