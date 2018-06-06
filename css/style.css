@@ -128,7 +128,46 @@ footer p{
 
 /*header*/
 
+nav{
+  background-color: #fff;
+  border-bottom: 1px grey solid;
+}
 
+.headerlogo {
+  width: 20%;
+  height: 20%;
+}
+nav ul{
+margin-left: 15%;
+}
+
+nav ul li{
+  margin-left: 1em;
+}
+
+nav ul li a{
+  font-size:1.1em;
+  color: #000;
+  font-weight: bold;
+  text-shadow: 1.3px 1.3px #FFF;
+
+}
+
+.space{
+  margin-right: 9em;
+}
+
+.space2{
+  margin-left: 3em;
+}
+
+
+.headerimg{
+  padding-top: 4em;
+    margin: 3% 43%;
+    width: 7%;
+    position: fixed;
+}
 
 /*retouche div esthétisme*/
 
