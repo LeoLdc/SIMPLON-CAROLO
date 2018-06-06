@@ -1,3 +1,8 @@
+*{
+font-size: 0.9rem;
+
+}
+
 p {
   text-align: justify;
 }
@@ -93,6 +98,7 @@ margin-top: 5px;
 .logo-simplon{
   height: 30%;
   width: 8%;
+  padding-top: 0.5%;
 }
 
 /* Logos réseaux sociaux */
@@ -115,16 +121,19 @@ margin-top: 5px;
 
 
 footer h1{
-  padding-left: 33px;
-  padding-top: 15px;
-  font-weight: 200;
+  padding-top: 2%;
+  font-weight: 100;
+  font-size: 2rem;
   color: white;
 }
 
 footer h2{
   font-size: 20px;
   color: white;
-  font-weight: 300;
+  font-weight: 200;
+  font-size: 1.1rem;
+  margin-left: 8%;
+  margin-top: 0%;
 }
 
 footer p{
@@ -234,7 +243,3 @@ label{
 }
 
 /* bloc de gauche (horaires) */
-
-body {
-  font-size: 0.8rem;
-}
