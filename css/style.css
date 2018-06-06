@@ -3,10 +3,10 @@ p {
 }
 
 .border {
-  border: 1px solid black;
+  border: 1px solid #ffffff;
 }
 .border-right {
-  border-right: 1px solid black ;
+  border-right: 1px solid #ffffff ;
 }
 
 h2 {
@@ -14,19 +14,19 @@ h2 {
 }
 
 .border-section {
-  border-bottom: 1px solid black;
-  border-left: 1px solid black;
-  border-right: 1px solid black;
+  border-bottom: 1px solid #ffffff;
+  border-left: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
 }
 
 .border-left {
-  border-left: 1px solid black;
+  border-left: 1px solid #ffffff;
 }
 
 iframe {
 -webkit-border-radius: 10px;
 -moz-border-radius: 10px;
-border-radius: 10px;
+border-radius: 3.5em;
 margin-top: 5px;
 }
 
@@ -39,7 +39,7 @@ margin-top: 5px;
 }
 .coll {
   background-color: #4c4c4c;
-  box-shadow: inset 1px 6px 9px 0px black;
+  box-shadow: inset 0px 6px 8px 0px white;
   padding: 10px;
   text-align: justify;
 }
@@ -56,14 +56,8 @@ margin-top: 5px;
 
 /* Logos partenaires*/
 
-.grandest{
-  width:23%;
-  height:17%;
-}
-
-.ardennemetropole{
-  width: 23%;
-  height: 17%;
+.grandest, .ardennemetropole{
+  width: 33%;
 }
 
 .grandest, .ardennemetropole, .europesengage, .ue, .etat{
@@ -72,27 +66,25 @@ margin-top: 5px;
 
 .grandest, .ardennemetropole, .europesengage, .ue, .etat{
   margin-right: 25px;
+  height: 50px;
 }
 
 .europesengage{
-  width: 12.6%;
-  height: 17%;
-
+  width: 22%;
 }
 
 .ue{
-  width: 9.1%;
-  height: 12%;
+  width: 15%;
 }
 
 .etat{
-  width: 12.1%;
-  height: 55%;
+  width: 9%;
+
 }
 
 .logo-simplon{
-  height: 30%;
-  width: 8%;
+  height: 80px;
+  width: 22%;
 }
 
 /* Logos réseaux sociaux */
@@ -104,11 +96,10 @@ margin-top: 5px;
   font-size: 40px;
 }
 
-#fblogo{
+.fblogo{
   margin-top: 10px;
-  margin-right:20px;
-  color: #3F5CA0;
-  font-size: 40px;
+  height: 38px;
+  width: 8%;
 }
 
 /* Textes et titres */
@@ -137,49 +128,71 @@ footer p{
 
 /*header*/
 
+nav{
+  background-color: #fff;
+  border-bottom: 1px grey solid;
+}
 
+.headerlogo {
+  width: 20%;
+  height: 20%;
+}
 nav ul{
-  text-align: center;
+margin-left: 15%;
 }
 
 nav ul li{
-  list-style: none;
-  text-align: center;
-  margin-left: 5px;
-  margin-right:5px;
+  margin-left: 1em;
 }
-
 
 nav ul li a{
-  font-size: 16px;
+  font-size:1.1em;
   color: #000;
+  font-weight: bold;
+  text-shadow: 1.3px 1.3px #FFF;
 }
 
-.limenu{
-border-bottom: 2px #000 solid;
+.space{
+  margin-right: 9em;
 }
 
-.nav_logo{
-  width: 150px;
-  height: 120px;
-  border-style: none;
+.space2{
+  margin-left: 3em;
 }
 
-nav{
-  background-color: rgb(255, 255, 255, 0.8);
+
+.headerimg{
+  padding-top: 4em;
+    margin: 3% 43%;
+    width: 7%;
+    position: fixed;
+}
+
+/*retouche div esthétisme*/
+
+#centrage {
   display: flex;
-  width: 52%;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  justify-content: center;
+  width:100%;
+}
+#marginbottom{
+  margin-bottom:0.5em;
 }
 
- .affix {
-     top: 0;
-     width: 100%;
-     z-index: 9999 !important;
- }
-
- .affix + .container-fluid {
-     padding-top: 70px;
- }
+.divborder{
+  border: 0.5em solid #ffffff;
+  border:0.5em 0.5em 0.5em 0.5em;
+}
+.divcenterhori {
+display:flex;
+}
+.divcenterverti {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding:2em;
+  width:80em;
+}
+.padding {
+  padding: 1em;
+}
