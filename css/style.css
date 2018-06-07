@@ -1,24 +1,20 @@
-/*-----------------------------------------General*/
-
 *{
-  margin: 0;
-  padding: 0;
+overflow-x :hidden;
 }
 
 p {
   text-align: justify;
 }
 
-h2 {
-  text-align: center;
-}
-
-/*------------------------------------------Accueil*/
 .border {
   border: 1px solid #ffffff;
 }
 .border-right {
   border-right: 1px solid #ffffff ;
+}
+
+h2 {
+  text-align: center;
 }
 
 .border-section {
@@ -31,7 +27,7 @@ h2 {
   border-left: 1px solid #ffffff;
 }
 
-iframe {
+#iframe {
 -webkit-border-radius: 10px;
 -moz-border-radius: 10px;
 border-radius: 3.5em;
@@ -47,18 +43,22 @@ margin-top: 5px;
 }
 .coll {
   background-color: #4c4c4c;
-  box-shadow: inset 0px 6px 8px 0px white;
+  box-shadow: inset 0px 2px 2px 0px #ffffff;
   padding: 10px;
   text-align: justify;
 }
 
 
 
-/*-------------------------------------------Footer */
+/* Footer */
 
-.backfooter{
+footer{
   background-color: #b2b2b2;
 }
+
+
+
+/* Logos partenaires*/
 
 .grandest{
   width:23%;
@@ -97,7 +97,10 @@ margin-top: 5px;
 .logo-simplon{
   height: 30%;
   width: 8%;
+  padding-top: 0.5%;
 }
+
+/* Logos réseaux sociaux */
 
 #logotwitter{
   margin-top: 10px;
@@ -113,18 +116,23 @@ margin-top: 5px;
   font-size: 40px;
 }
 
+/* Textes et titres */
+
 
 footer h1{
-  padding-left: 33px;
-  padding-top: 15px;
-  font-weight: 200;
+  padding-top: 2%;
+  font-weight: 100;
+  font-size: 2rem;
   color: white;
 }
 
 footer h2{
   font-size: 20px;
   color: white;
-  font-weight: 300;
+  font-weight: 200;
+  font-size: 1.1rem;
+  margin-left: 8%;
+  margin-top: 0%;
 }
 
 footer p{
@@ -134,26 +142,6 @@ footer p{
   color: white;
 }
 
-
-footer h1{
-  padding-left: 33px;
-  padding-top: 15px;
-  font-weight: 200;
-  color: white;
-}
-
-footer h2{
-  font-size: 20px;
-  color: white;
-  font-weight: 300;
-}
-
-footer p{
-  margin-top: 20px;
-  font-size: 15px;
-  font-weight: 100;
-  color: white;
-}
 
 
 /*header*/
@@ -163,17 +151,12 @@ nav{
   border-bottom: 1px grey solid;
 }
 
-.navigation{
-  width: 70%;
-}
-
 .headerlogo {
   width: 20%;
   height: 20%;
 }
 nav ul{
-margin: 0 auto;
-width: 73%;
+margin-left: 15%;
 }
 
 nav ul li{
@@ -187,13 +170,14 @@ nav ul li a{
   text-shadow: 1.3px 1.3px #FFF;
 }
 
-.space {
-    margin-right: 8%;
+.space{
+  margin-right: 12%;
 }
 
-.space2 {
-    margin-left: 7%;
+.space2{
+  margin-left: 12%;
 }
+
 
 .headerimg{
   padding-top: 4em;
@@ -229,10 +213,7 @@ display:flex;
 }
 .padding {
   padding: 1em;
-
 }
-
-
 /* button*/
 .button3 {
   background-color: #f00b4e;
