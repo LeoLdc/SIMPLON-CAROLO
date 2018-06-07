@@ -218,8 +218,11 @@ display:flex;
 .button3 {
   background-color: #f00b4e;
   border-radius: 50%;
-  border:1px solid black;
 }
+.button3:hover {
+  background-color: #b71c35;
+}
+
 .button2 {
     background-color: #f00b4e;
     color: white;
@@ -230,6 +233,7 @@ display:flex;
     font-size: 16px;
     border-radius: 50%;
     box-shadow: 1px 1px 1px grey;
+    margin-bottom: 5px;
 }
 .taille {
   max-height: 330px;
