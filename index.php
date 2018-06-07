@@ -65,8 +65,8 @@
               </div>
           </div>
 
-          <div style="border-radius:3.5em; border:0.2px solid black;" class="col-lg-6 col-md-6 col-sm-6 border-left bgred">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/MPC3gZWyxeo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <div style="border-radius:3.5em; border:0.2px solid black;  box-shadow: 3px 3px 3px grey;" class="col-lg-6 col-md-6 col-sm-6  bgred taille">
+            <iframe id="iframe" width="100%" height="315" src="https://www.youtube.com/embed/MPC3gZWyxeo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
 
   </div>
