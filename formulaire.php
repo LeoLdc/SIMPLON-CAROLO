@@ -64,6 +64,8 @@
 
 						<h3 class="text-left">Horaires</h3>
 
+						<div class="horairesimage">
+
 						<table class="table table-responsive">
 						    <tr>
 						      <th>Lundi</th>
@@ -96,6 +98,10 @@
 						18a Avenue Georges Corneau <br>
 						08000 Charleville-Mézières <br>
 						Tél: 03 24 56 62 62 <br>
+
+
+
+						</div>
 						</div>
 
 						<div class="mx-auto w-75 p-3 border-left border-right border-bottom
