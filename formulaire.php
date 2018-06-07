@@ -46,7 +46,7 @@
 
 							<div class="field" class="form-group">
 								<label class="mb:-0.2rem" for="votremessage">Votre message</label>
-								<textarea class="form-control" cols="30" rows="10" id="message" name="message"></textarea>
+								<textarea class="form-control" cols="10" rows="8" id="message" name="message"></textarea>
 							</div>
 
 <button type="submit" class="btn btn-danger mx-auto" style="margin-top: 20px;">Envoyer !</button>
@@ -122,7 +122,7 @@
 
 					</div>
 				</div>
-<br>
+
 		<footer>		<?php include("php/footer.php") ?> </footer>
 
 
