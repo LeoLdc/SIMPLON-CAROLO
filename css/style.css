@@ -52,7 +52,7 @@ margin-top: 5px;
 
 /* Footer */
 
-.backfooter{
+footer{
   background-color: #b2b2b2;
 }
 
@@ -241,10 +241,18 @@ display:flex;
 
 /*Page formulaire */
 
-.carte{
-justify-content: center;
+table{
+  width: 100%;
 }
 
+td{
+  padding-left: 50%;
+}
+
+label{
+margin-bottom: -0.3rem;
+margin-top: 1rem;
+}
 
 
  .field{
@@ -254,9 +262,3 @@ justify-content: center;
 .boutonform{
   padding-top: 20px;
 }
-
-/* bloc de gauche (formulaire) */
-
-
-
-/* bloc de gauche (horaires) */
