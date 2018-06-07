@@ -23,7 +23,7 @@ h2 {
   border-left: 1px solid #ffffff;
 }
 
-iframe {
+#iframe {
 -webkit-border-radius: 10px;
 -moz-border-radius: 10px;
 border-radius: 3.5em;
@@ -207,7 +207,6 @@ display:flex;
 }
 .button2 {
     background-color: #f00b4e;
-    border: 1px solid black;
     color: white;
     padding: 30px 10px;
     text-align: center;
@@ -215,4 +214,8 @@ display:flex;
     display: inline-block;
     font-size: 16px;
     border-radius: 50%;
+    box-shadow: 1px 1px 1px grey;
+}
+.taille {
+  max-height: 330px;
 }
