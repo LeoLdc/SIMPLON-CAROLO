@@ -62,6 +62,7 @@ ul li{
 
 .selectionmain:hover {
   animation-play-state: paused;
+
 }
 
 .selectionmain {
@@ -80,3 +81,5 @@ ul li{
 }
 
 /*------------------------texte-container*/
+
+.te
