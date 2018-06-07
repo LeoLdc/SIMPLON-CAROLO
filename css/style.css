@@ -1,5 +1,5 @@
 *{
-overflow-x :hidden; 
+overflow-x :hidden;
 }
 
 p {
@@ -234,12 +234,19 @@ display:flex;
 
 /*Page formulaire */
 
-#formulaire h2{
-color: red;
-
+.carte{
+justify-content: center;
 }
 
 
+
+ .field{
+   padding-top: 10px;
+ }
+
+.boutonform{
+  padding-top: 20px;
+}
 
 /* bloc de gauche (formulaire) */
 
