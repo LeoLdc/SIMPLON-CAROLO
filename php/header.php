@@ -18,7 +18,7 @@
         </div>
       </li>
       <li class="nav-item space2">
-        <a class="nav-link border-navlia" href="pres.php">News & Photos</a>
+        <a class="nav-link border-navlia" href="news.php">News & Photos</a>
       </li>
       <li class="nav-item">
         <a class="nav-link border-navlia" href="formulaire.php">Contact</a>

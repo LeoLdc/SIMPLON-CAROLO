@@ -10,6 +10,7 @@
       <link rel="stylesheet" type="text/css" href="css/news.css">
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+       <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
 
     </head>
 
@@ -18,7 +19,7 @@
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-lg-6 col-lg-offset-1 haut">
+    <div class="col-lg-6 haut">
       <div id="demo" class="carousel slide" data-ride="carousel">
   <ul class="carousel-indicators">
     <li data-target="#demo" data-slide-to="0" class="active"></li>
@@ -30,29 +31,29 @@
     <div class="carousel-item active">
       <img src="images/1.jpeg" alt="Los Angeles" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>Los Angeles</h3>
-        <p>We had such a great time in LA!</p>
+        <h3>Inauguration</h3>
+        <p>C'est l'instant T</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="images/2.jpeg" alt="Chicago" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>Chicago</h3>
-        <p>Thank you, Chicago!</p>
+        <h3>prise de parole</h3>
+        <p>on apprend à s'exprimer et présenter devant un public</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="images/3.png" alt="New York" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>New York</h3>
-        <p>We love the Big Apple!</p>
+        <h3>Assiduité</h3>
+        <p>La première promo est très studieuse</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="images/4.jpeg" alt="Test" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>Bonswaar</h3>
-        <p>We love the Big Apple!</p>
+        <h3>Discours du Maire</h3>
+        <p>Petit speech de M. Ravignon sur Simplon</p>
       </div>
     </div>
   </div>
@@ -64,30 +65,103 @@
   </a>
 </div>
     </div>
-    <div class="col-lg-3 col-lg-offset-1">
-      <div class="card img-fluid" style="width:500px">
-    <img class="card-img-top" src="images/img_avatar.png" alt="Card image" style="width:100%">
-    <div class="card-img-overlay d-flex flex-column justify-content-end">
-      <p class="card-text">Some example text some example text. Some example text some example text. Some example text some example text. Some example text some example text.</p>
+    <div class="col-lg-3">
+      <a href="#article1">
+      <div class="rubrique">ACTU</div>
+      <div class=" card img-fluid" style="width:500px">
+    <img class="card-img-top" src="images/promo1.jpg" alt="Card image" style="width:100%">
+    <div class="tre card-img-overlay d-flex flex-column justify-content-end">
+      <div class="overlay">
+      <p class="cardtxt card-text">Une première promo</p>
+      </div>
     </div>
   </div>
+  </a>
     </div>
     <div class="col-lg-3">
+      <a href="#article2">
+        <div class="rubrique">REPORTAGE</div>
       <div class="card img-fluid" style="width:500px">
-    <img class="card-img-bottom" src="images/img_avatar2.png" alt="Card image" style="width:100%">
-    <div class="card-img-overlay  d-flex flex-column justify-content-end">
-      <p class="card-text">Some example text some example text. Some example text some example text. Some example text some example text. Some example text some example text.</p>
+    <img class="card-img-bottom" src="images/3.jpeg" alt="Card image" style="width:100%">
+    <div class="tre card-img-overlay  d-flex flex-column justify-content-end">
+      <div class="overlay">
+      <p class="cardtxt card-text">Simplon s'invite à la CCI des Ardennes</p>
+      </div>
     </div>
   </div>
+  </a>
     </div>
 
   </div>
+  <div class="row margrow">
+    <div class="col-lg-3">
+      <a href="#article3">
+        <div class="rubrique">INTERVIEW</div>
+      <div class="card img-fluid" style="width:500px">
+    <img class="card-img-bottom" src="images/benoit.jpeg" alt="Card image" style="width:100%">
+    <div class="tre card-img-overlay  d-flex flex-column justify-content-end">
+      <div class="overlay">
+      <p class="cardtxt card-text">Benoît Caron : Un médiateur "à la cool"</p>
+      </div>
+    </div>
+  </div>
+  </a>
+    </div>
+    <div class="col-lg-3">
+      <a href="#article4">
+        <div class="rubrique">INTERVIEW</div>
+      <div class="card img-fluid" style="width:500px">
+    <img class="card-img-bottom" src="images/5.jpeg" alt="Card image" style="width:100%">
+    <div class="tre card-img-overlay  d-flex flex-column justify-content-end">
+      <div class="overlay">
+      <p class="cardtxt card-text">Deux Formateurs complémentaires</p>
+      </div>
+    </div>
+  </div>
+  </a>
+    </div>
+    <div class="col-lg-3">
+      <a href="#article5">
+        <div class="rubrique">ACTU</div>
+      <div class="card img-fluid" style="width:500px">
+
+    <img class="card-img-bottom" src="images/6.jpg" alt="Card image" style="width:100%">
+    <div class="tre card-img-overlay  d-flex flex-column justify-content-end">
+      <div class="overlay">
+      <p class="cardtxt card-text">Une pédagogie 2.0</p>
+      </div>
+    </div>
+  </div>
+  </a>
+    </div>
+    <div class="col-lg-3">
+      <a href="#article6">
+        <div class="rubrique">INFO</div>
+      <div class="card img-fluid" style="width:500px">
+    <img class="card-img-bottom" src="images/7.jpg" alt="Card image" style="width:100%">
+    <div class="tre card-img-overlay  d-flex flex-column justify-content-end">
+      <div class="overlay">
+      <p class="cardtxt card-text">Une mixité peu respectée</p>
+      </div>
+    </div>
+  </div>
+  </a>
+    </div>
+
+  </div>
+  <div class="row margrow">
+    <div class="offset-lg-2 offset-md-2 offset-sm-2"></div>
+    <div class="col-lg-8 col-md-8 col-sm-8"></div>
+    <div class="offset-lg-2 offset-md-2 offset-sm-2"></div>
+
 
   </div>
 
-</div>
+  </div>
 
 
+
+<footer class="backfooter"><?php include('php/footer.php') ?></footer>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
