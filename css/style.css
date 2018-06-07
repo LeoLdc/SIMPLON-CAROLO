@@ -234,11 +234,15 @@ display:flex;
 
 /*Page formulaire */
 
+#formulaire h2{
+color: red;
+
+}
+
+
+
 /* bloc de gauche (formulaire) */
 
-label{
-  margin-left: 2%;
-  margin-bottom: 0.2rem;
-}
+
 
 /* bloc de gauche (horaires) */
