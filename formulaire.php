@@ -19,7 +19,7 @@
 
 				<div class="col-lg-6 col-md-6 col-sm-6">
 
-					<div class="mx-auto w-75 p-3 border border-danger">
+					<div class="mx-auto w-100 p-3 border border-danger">
 
 						<h2 class="text-center text-danger">Formulaire de contact</h2>
 
@@ -46,7 +46,7 @@
 
 							<div class="field" class="form-group">
 								<label class="mb:-0.2rem" for="votremessage">Votre message</label>
-								<textarea class="form-control" cols="30" rows="10" id="message" name="message"></textarea>
+								<textarea class="form-control" cols="10" rows="16" id="message" name="message"></textarea>
 							</div>
 
 <button type="submit" class="btn btn-danger mx-auto" style="margin-top: 20px;">Envoyer !</button>
@@ -59,10 +59,12 @@
 				</div>
 
 				<div class="col-lg-6 col-md-6 col-sm-6">
-					<div class="mx-auto w-75 p-3 border border-danger">
-						<div class="row justify-content-center"><h2 class="text-center text-danger">Informations</h2> </div>
+					<div class="mx-auto w-100 p-3 border border-danger">
+						<div class="row justify-content-center"><h2 class="text-danger">Informations</h2> </div>
+												<h3 class="text-left">Horaires</h3>
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-sm-6">
 
-						<h3 class="text-left">Horaires</h3>
 
 						<div class="horairesimage">
 
@@ -98,13 +100,18 @@
 						18a Avenue Georges Corneau <br>
 						08000 Charleville-Mézières <br>
 						Tél: 03 24 56 62 62 <br>
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-6">
+						<img class="w-100 p-100 mw-300 mh-100" src="./images/simploncharleville.png" alt="">
 
+					</div>
 
 
 						</div>
 						</div>
 
-						<div class="mx-auto w-75 p-3 border-left border-right border-bottom
+						<div class="mx-auto w-100 p-3 border-left border-right border-bottom
 						border-danger">
 
 
@@ -117,13 +124,12 @@
 
 
 
-
 						</div>
 
 					</div>
 				</div>
-<br>
-		<footer>		<?php include("php/footer.php") ?> </footer>
+
+				<footer><?php include('php/footer.php') ?></footer>
 
 
 

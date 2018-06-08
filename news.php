@@ -19,7 +19,7 @@
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-lg-6 haut">
+    <div class="col-lg-5 haut">
       <div id="demo" class="carousel slide" data-ride="carousel">
   <ul class="carousel-indicators">
     <li data-target="#demo" data-slide-to="0" class="active"></li>
@@ -65,7 +65,11 @@
   </a>
 </div>
     </div>
-    <div class="col-lg-3">
+    <div class="offset-lg-1">
+
+    </div>
+
+    <div class="col-lg-2">
       <a href="#article1">
       <div class="rubrique">ACTU</div>
       <div class=" card img-fluid" style="width:500px">
@@ -78,7 +82,7 @@
   </div>
   </a>
     </div>
-    <div class="col-lg-3">
+    <div class="col-lg-2">
       <a href="#article2">
         <div class="rubrique">REPORTAGE</div>
       <div class="card img-fluid" style="width:500px">
@@ -91,10 +95,7 @@
   </div>
   </a>
     </div>
-
-  </div>
-  <div class="row margrow">
-    <div class="col-lg-3">
+    <div class="col-lg-2">
       <a href="#article3">
         <div class="rubrique">INTERVIEW</div>
       <div class="card img-fluid" style="width:500px">
@@ -107,7 +108,23 @@
   </div>
   </a>
     </div>
-    <div class="col-lg-3">
+
+  </div>
+  <div class="row margrow">
+    <div class="col-lg-2">
+      <a href="#article3">
+        <div class="rubrique">INTERVIEW</div>
+      <div class="card img-fluid" style="width:500px">
+    <img class="card-img-bottom" src="images/benoit.jpeg" alt="Card image" style="width:100%">
+    <div class="tre card-img-overlay  d-flex flex-column justify-content-end">
+      <div class="overlay">
+      <p class="cardtxt card-text">Benoît Caron : Un médiateur "à la cool"</p>
+      </div>
+    </div>
+  </div>
+  </a>
+    </div>
+    <div class="col-lg-2">
       <a href="#article4">
         <div class="rubrique">INTERVIEW</div>
       <div class="card img-fluid" style="width:500px">
@@ -120,7 +137,21 @@
   </div>
   </a>
     </div>
-    <div class="col-lg-3">
+<div class="offset-lg-2"></div>
+    <div class="col-lg-2">
+      <a href="#article6">
+        <div class="rubrique">INFO</div>
+      <div class="card img-fluid" style="width:500px">
+    <img class="card-img-bottom" src="images/7.jpg" alt="Card image" style="width:100%">
+    <div class="tre card-img-overlay  d-flex flex-column justify-content-end">
+      <div class="overlay">
+      <p class="cardtxt card-text">Une mixité peu respectée</p>
+      </div>
+    </div>
+  </div>
+  </a>
+    </div>
+    <div class="col-lg-2">
       <a href="#article5">
         <div class="rubrique">ACTU</div>
       <div class="card img-fluid" style="width:500px">
@@ -134,14 +165,15 @@
   </div>
   </a>
     </div>
-    <div class="col-lg-3">
-      <a href="#article6">
-        <div class="rubrique">INFO</div>
+    <div class="col-lg-2">
+      <a href="#article5">
+        <div class="rubrique">ACTU</div>
       <div class="card img-fluid" style="width:500px">
-    <img class="card-img-bottom" src="images/7.jpg" alt="Card image" style="width:100%">
+
+    <img class="card-img-bottom" src="images/6.jpg" alt="Card image" style="width:100%">
     <div class="tre card-img-overlay  d-flex flex-column justify-content-end">
       <div class="overlay">
-      <p class="cardtxt card-text">Une mixité peu respectée</p>
+      <p class="cardtxt card-text">Une pédagogie 2.0</p>
       </div>
     </div>
   </div>
