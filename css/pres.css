@@ -82,4 +82,28 @@ ul li{
 
 /*------------------------texte-container*/
 
-.te
+.te{}
+/*--------------------LéoL------------------------*/
+
+/*---Zone texte---*/
+#text1,  #text2 , #text3 , #text4 , #text5 {
+  display: none;
+}
+
+  .choix1:hover ~ #text1 {
+  display:block;
+}
+
+.textcontainer {
+  margin-top: 300px;
+  height:400px;
+  padding:35px;
+
+
+}
+.titletext {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  width :100%;
+}
