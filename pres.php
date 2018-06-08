@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
     <head>
-      <?php include('php/meta.php') ?>
+      <title>Présentation</title>
+      <meta charset="utf-8" />
+      <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+      <link rel="stylesheet" href="css/pres.css">
     </head>
 
     <body>
@@ -34,10 +38,10 @@
         </div>
       </div>
       </div>
-      <div class=".col-lg-offset-1"></div>
+      <div class="offset-lg-1"></div>
         <div class="col-lg-7 col-md-12 col-sm-12">
           <div>
-          <div class="textcontainer" style="background-color:gray; border-radius:40px;">
+          <div class="textcontainer padding" style="background-color:gray; border-radius:40px;">
             <div id="text1">
             <p class="titletext" style="font-size:22px;">Titre1</p>
             <p>Constituendi autem sunt qui sint in amicitia fines et quasi termini diligendi. De quibus tres video sententias ferri, quarum nullam probo, unam, ut eodem modo erga amicum adfecti simus, quo erga nosmet ipsos, alteram, ut nostra in amicos benevolentia illorum erga nos benevolentiae pariter aequaliterque respondeat, tertiam, ut, quanti quisque se ipse facit, tanti fiat ab amicis.Constituendi autem sunt qui sint in amicitia fines et quasi termini diligendi. De quibus tres video sententias ferri, quarum nullam probo, unam, ut eodem modo erga amicum adfecti simus, quo erga nosmet ipsos, alteram, ut nostra in amicos benevolentia illorum erga nos benevolentiae pariter aequaliterque respondeat, tertiam, ut, quanti quisque se ipse facit, tanti fiat ab amicis.</p>
