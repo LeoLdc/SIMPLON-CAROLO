@@ -56,6 +56,11 @@ margin-top: 5px;
 
 /*-------------------------------------------Footer */
 
+.container-fluid{
+  width: 75%;
+}
+
+
 footer{
 margin-top: 50px;
   background-color: #b2b2b2;
