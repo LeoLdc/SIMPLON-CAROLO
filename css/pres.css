@@ -90,9 +90,6 @@ ul li{
   display: none;
 }
 
-  .choix1:hover ~ #text1 {
-  display:block;
-}
 
 .textcontainer {
   margin-top: 300px;

@@ -3,7 +3,6 @@
 *{
   margin: 0;
   padding: 0;
-  overflow-x: hidden;
 }
 
 p {
@@ -45,7 +44,7 @@ footer p{
 
 footer .container-fluid{
   width: 75%;
-} 
+}
 
 .grandest{
   width:15%;
