@@ -3,7 +3,7 @@
 <html>
 
   <head>
-      <title>Présentation</title>
+      <title>News</title>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
       <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
       <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -101,7 +101,7 @@
         <img class="card-img-bottom" src="images/benoit.jpeg" alt="Card image" style="width:100%">
         <div class="tre card-img-overlay  d-flex flex-column justify-content-end">
           <div class="overlay">
-          <p class="cardtxt card-text">Benoît Caron : Un médiateur "à la cool"</p>
+          <p class="cardtxt card-text">Benoît Caron : "Médiateur"</p>
           </div>
         </div>
       </div>
