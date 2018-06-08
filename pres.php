@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
     <head>
-      <title>Présentation</title>
-      <meta charset="utf-8" />
-      <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-      <link rel="stylesheet" type="text/css" href="css/style.css">
-      <link rel="stylesheet" href="css/pres.css">
+      <?php include('php/meta.php') ?>
     </head>
 
     <body>

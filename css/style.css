@@ -1,4 +1,4 @@
-/*-----------------------------------------General*/
+/*---------------------------------------------------------------------General*/
 
 *{
   margin: 0;
@@ -13,57 +13,36 @@ h2 {
   text-align: center;
 }
 
-/*------------------------------------------Accueil*/
-.border {
-  border: 1px solid #ffffff;
-}
-.border-right {
-  border-right: 1px solid #ffffff ;
-}
 
-.border-section {
-  border-bottom: 1px solid #ffffff;
-  border-left: 1px solid #ffffff;
-  border-right: 1px solid #ffffff;
+/*------------ Footer .php */
+
+footer{
+  margin-top: 50px;
+  background-color: #b2b2b2;
 }
 
-.border-left {
-  border-left: 1px solid #ffffff;
+footer h1{
+  padding-left: 33px;
+  padding-top: 15px;
+  font-weight: 200;
+  color: white;
 }
 
-iframe {
--webkit-border-radius: 10px;
--moz-border-radius: 10px;
-border-radius: 3.5em;
-margin-top: 5px;
+footer h2{
+  font-size: 20px;
+  color: white;
+  font-weight: 300;
 }
 
-.bgred {
-  background-color: #b71c35;
+footer p{
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 100;
+  color: white;
 }
-
-.fix {
-  margin-left: 50%
-}
-.coll {
-  background-color: #4c4c4c;
-  box-shadow: inset 0px 6px 8px 0px white;
-  padding: 10px;
-  text-align: justify;
-}
-
-
-
-/*-------------------------------------------Footer */
 
 .container-fluid{
   width: 75%;
-}
-
-
-footer{
-margin-top: 50px;
-  background-color: #b2b2b2;
 }
 
 .grandest{
@@ -119,55 +98,25 @@ margin-top: 50px;
   font-size: 40px;
 }
 
-
-footer h1{
-  padding-left: 33px;
-  padding-top: 15px;
-  font-weight: 200;
-  color: white;
-}
-
-footer h2{
-  font-size: 20px;
-  color: white;
-  font-weight: 300;
-}
-
-footer p{
-  margin-top: 20px;
-  font-size: 15px;
-  font-weight: 100;
-  color: white;
-}
-
-
-footer h1{
-  padding-left: 33px;
-  padding-top: 15px;
-  font-weight: 200;
-  color: white;
-}
-
-footer h2{
-  font-size: 20px;
-  color: white;
-  font-weight: 300;
-}
-
-footer p{
-  margin-top: 20px;
-  font-size: 15px;
-  font-weight: 100;
-  color: white;
-}
-
-
-/*header*/
+/*--------- header .php */
 
 nav{
   background-color: #fff;
   border-bottom: 1px grey solid;
 
+}
+
+nav ul{
+  margin: 0 auto;
+  width: 50%;
+
+}
+
+nav ul li a{
+  font-size:1.1em;
+  color: #000;
+  font-weight: bold;
+  text-shadow: 1.3px 1.3px #FFF;
 }
 
 .navigation{
@@ -177,21 +126,6 @@ nav{
 .headerlogo {
   width: 20%;
   height: 20%;
-}
-nav ul{
-margin: 0 auto;
-width: 50%;c
-}
-
-nav ul li{
-
-}
-
-nav ul li a{
-  font-size:1.1em;
-  color: #000;
-  font-weight: bold;
-  text-shadow: 1.3px 1.3px #FFF;
 }
 
 .space {
@@ -209,24 +143,59 @@ nav ul li a{
     position: fixed;
 }
 
-/*retouche div esthétisme*/
+/*---------------------------------------------------------------------Accueil*/
 
-#centrage {
-  display: flex;
-  justify-content: center;
-  width:100%;
+iframe {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 3.5em;
+  margin-top: 5px;
 }
-#marginbottom{
-  margin-bottom:0.5em;
+
+.border {
+  border: 1px solid #ffffff;
 }
+
+.border-right {
+  border-right: 1px solid #ffffff ;
+}
+
+.border-section {
+  border-bottom: 1px solid #ffffff;
+  border-left: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
+}
+
+.border-left {
+  border-left: 1px solid #ffffff;
+}
+
+.bgred {
+  background-color: #b71c35;
+}
+
+.fix {
+  margin-left: 50%
+}
+
+.coll {
+  background-color: #4c4c4c;
+  box-shadow: inset 0px 6px 8px 0px white;
+  padding: 10px;
+  text-align: justify;
+}
+
+/*------------------retouche div esthétisme*/
 
 .divborder{
   border: 0.5em solid #ffffff;
   border:0.5em 0.5em 0.5em 0.5em;
 }
+
 .divcenterhori {
-display:flex;
+  display:flex;
 }
+
 .divcenterverti {
   display: flex;
   flex-direction: column;
@@ -234,21 +203,33 @@ display:flex;
   padding:2em;
   width:80em;
 }
+
 .padding {
   padding: 1em;
-
 }
 
+#centrage {
+  display: flex;
+  justify-content: center;
+  width:100%;
+}
 
-/* button*/
+#marginbottom{
+  margin-bottom:0.5em;
+}
+
+/*-----------------button*/
+
 .button3 {
   background-color: #f00b4e;
   border-radius: 50%;
   border:1px solid black;
 }
+
 .button3:hover {
   background-color: #b71c35;
 }
+
 .button2 {
     background-color: #f00b4e;
     color: white;
@@ -260,43 +241,117 @@ display:flex;
     border-radius: 50%;
     box-shadow: 1px 1px 1px grey;
 }
+
 .taille {
   max-height: 330px;
 }
 
-/*Page formulaire */
+/*-----------------------------------------------------------Page présentation*/
 
-.table{
-  max-width: 334px;
-  min-width: 210px;
+/*------------------------roue*/
+
+ul li{
+  list-style: none;
+  text-align: center;
 }
+
+.contenu{
+  height: 1000px;
+}
+
+.logo-spin{
+  z-index: 999;
+}
+
+.choix1 , .choix2 ,.choix3 ,.choix4 ,.choix5{
+  position: absolute;
+  z-index: 1;
+  width: 145px;
+  height: 80px;
+  background-color: #ed1651;
+  padding: 0 20px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.choix1 a,.choix2 a,.choix3 a,.choix4 a,.choix5 a{
+  font-size: 16px;
+  color: #fff;
+  line-height: 80px;
+  float: right;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.choix1{
+  top: 15%;
+  left: 13%;
+  transform: rotate(216deg);
+}
+
+.choix2{
+  top: 0%;
+  left: 55%;
+  transform: rotate(288deg);
+}
+
+.choix3{
+  top: 73%;
+  left: 13%;
+  transform: rotate(144deg);
+}
+
+.choix4{
+  top: 89%;
+  left: 54%;
+  transform: rotate(72deg);
+}
+
+.choix5{
+  top: 45%;
+  left: 76%;
+}
+
+.selectionmain:hover {
+  animation-play-state: paused;
+
+}
+
+.selectionmain {
+
+    position: absolute;
+    margin-top: 25%;
+    left: -120%;
+    -webkit-animation:spin 9s linear infinite;
+    -moz-animation:spin 9s linear infinite;
+    animation:spin 9s linear infinite;
+    animation-duration: 16s;
+}
+
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); }
+}
+
+@-webkit-keyframes spin {
+  100% { -webkit-transform: rotate(360deg);
+}}
+
+@keyframes spin { 100% { -webkit-transform: rotate(360deg);
+  transform:rotate(360deg); }
+}
+
+/*------------------------texte-container*/
+
+
+
+/*------------------------------------------------------------Page formulaire */
 
 td{
   padding-left: 50%;
 }
 
 label{
-margin-bottom: -0.3rem;
-margin-top: 1rem;
-}
-
-
- .field{
-   padding-top: 10px;
- }
-
-.boutonform{
-  padding-top: 20px;
-}
-
-#formulaire{
-margin-top: 100px;
-}
-
-.img-fluid{
-  max-width: 200px;
-
-min-width: 50px;
+  margin-bottom: -0.3rem;
+  margin-top: 1rem;
 }
 
 textarea{
@@ -305,4 +360,26 @@ textarea{
 
 form{
   height: 928px;
+}
+
+.table{
+  max-width: 334px;
+  min-width: 210px;
+}
+
+.field{
+   padding-top: 10px;
+ }
+
+.boutonform{
+  padding-top: 20px;
+}
+
+.img-fluid{
+  max-width: 200px;
+  min-width: 50px;
+}
+
+#formulaire{
+  margin-top: 100px;
 }
