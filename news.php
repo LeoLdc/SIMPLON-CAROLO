@@ -84,9 +84,11 @@
     </div>
     <div class="col-lg-2">
       <a href="#article2">
-        <div class="rubrique">REPORTAGE</div>
+
       <div class="card img-fluid" style="width:500px">
+
     <img class="card-img-bottom" src="images/3.jpeg" alt="Card image" style="width:100%">
+    <div class="rubrique">REPORTAGE</div>
     <div class="tre card-img-overlay  d-flex flex-column justify-content-end">
       <div class="overlay">
       <p class="cardtxt card-text">Simplon s'invite à la CCI des Ardennes</p>

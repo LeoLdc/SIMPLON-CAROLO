@@ -65,6 +65,28 @@ box-shadow: 9px -7px 5px 0px #c7c3c1;
   height:183px;
 }
 
+.card:hover {
+  opacity: 1;
+	-webkit-animation: flash 1.5s;
+	animation: flash 1.5s;
+}
+@-webkit-keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+@keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
 .rubrique {
   background-color: #f00b4e;
 height: 24px;
