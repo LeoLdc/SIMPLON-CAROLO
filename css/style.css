@@ -62,12 +62,12 @@ margin-top: 50px;
 }
 
 .grandest{
-  width:23%;
+  width:15%;
   height:17%;
 }
 
 .ardennemetropole{
-  width: 23%;
+  width: 15%;
   height: 17%;
 }
 
@@ -80,18 +80,18 @@ margin-top: 50px;
 }
 
 .europesengage{
-  width: 12.6%;
+  width: 8.2%;
   height: 17%;
 
 }
 
 .ue{
-  width: 9.1%;
+  width: 5.9%;
   height: 12%;
 }
 
 .etat{
-  width: 12.1%;
+  width: 7.9%;
   height: 55%;
 }
 
@@ -262,7 +262,8 @@ display:flex;
 /*Page formulaire */
 
 .table{
-  max-width: 315px;
+  max-width: 334px;
+  min-width: 210px;
 }
 
 td{
@@ -285,4 +286,18 @@ margin-top: 1rem;
 
 #formulaire{
 margin-top: 100px;
+}
+
+.img-fluid{
+  max-width: 200px;
+
+min-width: 50px;
+}
+
+textarea{
+  resize:none;
+}
+
+form{
+  height: 928px;
 }
