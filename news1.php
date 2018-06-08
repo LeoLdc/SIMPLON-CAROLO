@@ -71,7 +71,7 @@
         <div class="col-lg-4 col-md-4 col-sm-4">
           <a href="#article1">
           <div class="rubrique">ACTU</div>
-          <div class=" card " >
+          <div class=" card img-fluid" >
         <img class="card-img-top" src="images/promo1.jpg" alt="Card image" style="width:100%">
         <div class="tre card-img-overlay d-flex flex-column justify-content-end">
           <div class="overlay">
@@ -84,7 +84,7 @@
         <div class="col-lg-4 col-md-4 col-sm-4">
           <a href="#article2">
             <div class="rubrique">REPORTAGE</div>
-          <div class="card ">
+          <div class="card img-fluid">
         <img class="card-img-bottom" src="images/3.jpeg" alt="Card image" style="width:100%">
         <div class="tre card-img-overlay  d-flex flex-column justify-content-end">
           <div class="overlay">
@@ -97,7 +97,7 @@
         <div class="col-lg-4 col-md-4 col-sm-4">
           <a href="#article3">
             <div class="rubrique">INTERVIEW</div>
-          <div class="card ">
+          <div class="card img-fluid">
         <img class="card-img-bottom" src="images/benoit.jpeg" alt="Card image" style="width:100%">
         <div class="tre card-img-overlay  d-flex flex-column justify-content-end">
           <div class="overlay">
@@ -113,7 +113,7 @@
         <div class="col-lg-4 col-md-4 col-sm-4">
           <a href="#article4">
             <div class="rubrique">INTERVIEW</div>
-          <div class="card ">
+          <div class="card img-fluid">
         <img class="card-img-bottom" src="images/5.jpeg" alt="Card image" style="width:100%">
         <div class="tre card-img-overlay  d-flex flex-column justify-content-end">
           <div class="overlay">
@@ -126,7 +126,7 @@
         <div class="col-lg-4 col-md-4 col-sm-4">
           <a href="#article6">
             <div class="rubrique">INFO</div>
-          <div class="card ">
+          <div class="card img-fluid">
         <img class="card-img-bottom" src="images/7.jpg" alt="Card image" style="width:100%">
         <div class="tre card-img-overlay  d-flex flex-column justify-content-end">
           <div class="overlay">
