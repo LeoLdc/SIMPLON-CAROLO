@@ -33,7 +33,8 @@
   <div class="row text-white padding">
     <div class="col-lg-12 col-md-12 col-sm-12">
       <h2>La mentalité Simplon</h2>
-      <p>Quis enim aut eum diligat quem metuat, aut eum a quo se metui putet? Coluntur tamen simulatione dumtaxat ad tempus. Quod si forte, ut fit plerumque, ceciderunt, tum intellegitur quam fuerint inopes amicorum. Quod Tarquinium dixisse ferunt, tum exsulantem se intellexisse quos fidos amicos habuisset, quos infidos, cum iam neutris gratiam referre posset.</p>
+      <p>
+Le numérique est partout mais pourtant ce n’est pas toujours un langage naturel et inné. La fracture entre ceux qui le parlent et le manipulent avec aisance et les autres est toujours aussi vive. C’est pourquoi nous voulons mettre le code dans toutes les mains.</p>
       <div id="demo" class="collapse coll">
         <div class="container-fluid">
           <div class="row">
@@ -42,31 +43,31 @@
         </div>
         <div style="margin-top: 100px; display: inline-block">
 			<p class="flotte "><img class="icones" src="img/outils.png" ></p>
-				<h2 style="text-decoration: underline">Etre bidouilleur</h2>
+				<h2 style="text-decoration: underline">Etre Autonome</h2>
 			<p style="line-height:25px;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 			</div>
 
       <div style="margin-top: 100px; display: inline-block">
     <p class="flotte "><img class="icones" src="img/coeur.png" ></p>
-      <h2 style="text-decoration: underline">Assainissement</h2>
+      <h2 style="text-decoration: underline">Motivation</h2>
     <p style="line-height:25px;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
     </div>
 
       <div style="margin-top: 100px; display: inline-block">
     <p class="flotte "><img class="icones" src="img/engrenage.png" ></p>
-      <h2 style="text-decoration: underline">Assainissement</h2>
+      <h2 style="text-decoration: underline">Rigueur</h2>
     <p style="line-height:25px;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
     </div>
 
     <div style="margin-top: 100px; display: inline-block">
   <p class="flotte "><img class="icones" src="img/loupe.png" ></p>
-    <h2 style="text-decoration: underline">Assainissement</h2>
+    <h2 style="text-decoration: underline">Entre-aide</h2>
   <p style="line-height:25px;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
   </div>
 
   <div style="margin-top: 100px; display: inline-block">
 <p class="flotte "><img class="icones" src="img/social.png" ></p>
-  <h2 style="text-decoration: underline">Assainissement</h2>
+  <h2 style="text-decoration: underline">Plaisir</h2>
 <p style="line-height:25px;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 
