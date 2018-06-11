@@ -23,7 +23,7 @@
           <div class="col-lg-5 col-md-12 col-sm-12 divcenterverti">
             <div class="vertical">
               <h2>Bienvenue sur le site </h2>
-              <p>Simplon vient d'ouvrir une Antenne à Charleville-Mézières !</p>
+              <p>Simplon vient d'ouvrir une Antenne à Charleville-Mézière !</p>
             </div>
           </div>
         </div>
@@ -91,7 +91,7 @@
 
     <div  class="col-lg-6 col-md-6 col-sm-6">
       <div class="bgred">
-          <iframe id="iframe" width="98%" height="315" style="margin: 10% 0;" src="https://www.youtube.com/embed/MPC3gZWyxeo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <iframe id="iframe" width="100%" height="315" style="margin: 10% 0;" src="https://www.youtube.com/embed/MPC3gZWyxeo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </div>
 
     </div>
