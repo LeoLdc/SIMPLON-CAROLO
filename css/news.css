@@ -1,6 +1,4 @@
-body {
-  background-color: #f7f4f3
-}
+
 .carousel {
   box-shadow: 9px -7px 7px 0px #c7c3c1;
 }
@@ -19,7 +17,6 @@ body {
   .carousel-inner h3 {
     text-shadow: -1px 0 black, 0 1px black,
       1px 0 black, 0 -1px black
-      font-family: 'trebuchet MS';
   }
   .carousel-indicators li {
     width: 10px;
@@ -27,9 +24,6 @@ body {
     border-radius: 100%;
   }
 
-.container-fluid {
-  margin-top:110px;
-}
 
 .tre {
   padding:0;
@@ -90,19 +84,19 @@ box-shadow: 9px -7px 5px 0px #c7c3c1;
 
 .rubrique {
   background-color: #f00b4e;
-height: 24px;
-width: 50%;
-position: absolute;
-z-index: 999;
-margin-top: 8px;
-color:white;
-font-weight: bold;
-text-align: center;
-font-size: 15px;
+  height: 24px;
+  width: 50%;
+  position: absolute;
+  z-index: 3;
+  margin-top: 8px;
+  color:white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 15px;
 }
 
 
 
 .mrgrow {
-width: 80%
+width: 80%;
 }

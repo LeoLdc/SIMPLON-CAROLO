@@ -7,6 +7,12 @@
 		<title></title>
 	</head>
 	<body>
+		<style media="screen">
+			.logosimplon{
+				margin: -99px 46%;
+			}
+		</style>
+
 
 		<?php include("php/header.php") ?>
 
