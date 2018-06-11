@@ -15,6 +15,7 @@ prom.addEventListener('click', revprom);
 peda.addEventListener('click', revpeda);
 part.addEventListener('click', revpart);
 
+
 function revsimpl() {
     if (divsimpl.style.display == 'none') {;
         divsimpl.style.display = 'block';
