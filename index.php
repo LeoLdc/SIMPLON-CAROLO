@@ -23,7 +23,7 @@
           <div class="col-lg-5 col-md-12 col-sm-12 divcenterverti">
             <div class="vertical">
               <h2>Bienvenue sur le site </h2>
-              <p>Simplon vient d'ouvrir une Antenne à Charleville-Mézière !</p>
+              <p>Simplon vient d'ouvrir une Antenne à Charleville-Mézières !</p>
             </div>
           </div>
         </div>
