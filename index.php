@@ -43,31 +43,35 @@
         <div style="margin-top: 100px; display: inline-block">
 			<p class="flotte "><img class="icones" src="img/outils.png" ></p>
 				<h2 style="text-decoration: underline">Etre bidouilleur</h2>
-			<p style="line-height:25px;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+			<p style="line-height:25px;">L'informatique est avant tout une question de débrouille, pas besoin d'être MacGyver non plus, mais avoir un esprit bricoleur peut fortement aider.
+</p>
 			</div>
 
       <div style="margin-top: 100px; display: inline-block">
     <p class="flotte "><img class="icones" src="img/coeur.png" ></p>
-      <h2 style="text-decoration: underline">Assainissement</h2>
-    <p style="line-height:25px;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <h2 style="text-decoration: underline">Être passionné</h2>
+    <p style="line-height:25px;">Si vous aimez réellement l'informatique et que vous voulez percer dans la branche du développement web alors cette formation sera pour vous : c'est avec le cœur qu'on acquiert le courage d'aller loin !
+</p>
     </div>
 
       <div style="margin-top: 100px; display: inline-block">
     <p class="flotte "><img class="icones" src="img/engrenage.png" ></p>
-      <h2 style="text-decoration: underline">Assainissement</h2>
-    <p style="line-height:25px;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <h2 style="text-decoration: underline">Être bosseur</h2>
+    <p style="line-height:25px;"> Si vous aimez réellement l'informatique et que vous voulez percé dans la branche du développement web alors cette formation sera pour vous : c'est avec le cœur qu'on acquiert le courage d'aller loin !
+</p>
     </div>
 
     <div style="margin-top: 100px; display: inline-block">
   <p class="flotte "><img class="icones" src="img/loupe.png" ></p>
-    <h2 style="text-decoration: underline">Assainissement</h2>
-  <p style="line-height:25px;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    <h2 style="text-decoration: underline">Google est ton amis</h2>
+  <p style="line-height:25px;"> Tous problèmes à sa solution et il est fort probable que la réponse se trouve déjà sur internet. Savoir se servir d'un moteur de recherche efficacement est une compétence qui vous sera utile
+</p>
   </div>
 
   <div style="margin-top: 100px; display: inline-block">
 <p class="flotte "><img class="icones" src="img/social.png" ></p>
-  <h2 style="text-decoration: underline">Assainissement</h2>
-<p style="line-height:25px;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <h2 style="text-decoration: underline">Être socia</h2>
+<p style="line-height:25px;">Si google ne résoud pas ton probléme, sache que tu pourras toujours compter sur les autres. Alors n'est pas peur de leurs demander de l'aide, ils se feront un plaisir de t'aider.</p>
 </div>
 
       </div>
