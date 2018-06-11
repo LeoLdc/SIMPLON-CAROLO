@@ -18,6 +18,7 @@
   .carousel-inner h3 {
     text-shadow: -1px 0 black, 0 1px black,
       1px 0 black, 0 -1px black
+      font-family: 'trebuchet MS';
   }
   .carousel-indicators li {
     width: 10px;
