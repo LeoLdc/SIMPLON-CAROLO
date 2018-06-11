@@ -43,7 +43,7 @@ Le numérique est partout mais pourtant ce n’est pas toujours un langage natur
         </div>
         <div style="margin-top: 100px; display: inline-block">
 			<p class="flotte "><img class="icones" src="img/outils.png" ></p>
-				<h2 style="text-decoration: underline">Etre Autonome</h2>
+				<h2 style="text-decoration: underline">Rigueur</h2>
 			<p style="line-height:25px;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 			</div>
 
@@ -61,7 +61,7 @@ Le numérique est partout mais pourtant ce n’est pas toujours un langage natur
 
     <div style="margin-top: 100px; display: inline-block">
   <p class="flotte "><img class="icones" src="img/loupe.png" ></p>
-    <h2 style="text-decoration: underline">Rigueur</h2>
+    <h2 style="text-decoration: underline">Autonomie</h2>
   <p style="line-height:25px;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
   </div>
 
